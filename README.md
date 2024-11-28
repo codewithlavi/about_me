@@ -55,7 +55,6 @@ I'm a second year student of software engineering(D.A.M) at DIGITech F.P in Mál
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
   &emsp;
@@ -65,9 +64,6 @@ I'm a second year student of software engineering(D.A.M) at DIGITech F.P in Mál
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
     &emsp;
@@ -116,9 +112,6 @@ I'm a second year student of software engineering(D.A.M) at DIGITech F.P in Mál
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
 </p>
 
 <br> 
@@ -129,7 +122,7 @@ I'm a second year student of software engineering(D.A.M) at DIGITech F.P in Mál
 
 </p>
 
-- 🔭 I’m currently working on Java
+
 - 🌱 I’m currently learning : C# and Game Development with Unity , Java , Android 
 -  I’m looking to collaborate on :Open-source project as a newbee
 -  Ask me about everthing,I will be happy to help 
