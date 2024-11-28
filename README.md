@@ -56,7 +56,6 @@ I'm a second year student of software engineering(D.A.M) at DIGITech F.P in Mál
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
   &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
@@ -65,7 +64,6 @@ I'm a second year student of software engineering(D.A.M) at DIGITech F.P in Mál
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
     &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
     &emsp;
@@ -97,7 +95,6 @@ I'm a second year student of software engineering(D.A.M) at DIGITech F.P in Mál
   &emsp;
     <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
@@ -121,7 +118,6 @@ I'm a second year student of software engineering(D.A.M) at DIGITech F.P in Mál
 <p align = "center">
 
 </p>
-
 
 - 🌱 I’m currently learning : C# and Game Development with Unity , Java , Android 
 -  I’m looking to collaborate on :Open-source project as a newbee
