@@ -123,14 +123,13 @@
 <br> 
 
 ---
-
 <p align = "center">
 
 </p>
 
 - 🌱 I’m currently learning : C# and Game Development with Unity , Java , Android 
 -  I’m looking to collaborate on :Open-source project as a newbee
--  Ask me about everthing,I will be happy to help 
+-  Ask me about everthing,I will be happy to help
 - 📫 How to reach me:  lavinia.bacaru@digitechfp.com and lavinia_bacaru@protonmail.com
 - 😄 Pronouns: she/coder girl
 
