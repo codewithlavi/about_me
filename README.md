@@ -1,19 +1,22 @@
 <h1 align="center">
 <a target="_blank">
-
   </a>
-  Hello &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; 
+  Hello world &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; 
   <a target="_blank">
   </a>
 </h1>
 
 <br/>
   I am Lavinia a second year student of software engineering(D.A.M) at DIGITech F.P in Málaga,Spain and I'm also a Cybersecurity Researcher.
-  - 🌱 I’m currently learning : C# and Game Development with Unity , Java ;
--  I’m looking for Internship and also to collaborate in a Open-source project
--  Ask me about everthing,I will be happy to help
-- 📫 How to reach me:  lavinia.bacaru@digitechfp.com and lavinia_bacaru@protonmail.com
-- 😄 Pronouns: she/coder girl
+  
+   I’m currently learning : C# and Game Development with Unity , Java ;
+  
+  I’m looking for Internship and also to collaborate in a Open-source project;
+  
+  Ask me about everthing,I will be happy to help
+  
+📫 How to reach me:  lavinia.bacaru@digitechfp.com and lavinia_bacaru@protonmail.com
+  
 <p align = "center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
@@ -191,16 +194,7 @@ The following table represents my experience and interests in different areas of
 </p>
 
 <p align = "center">
-# GitHub Statistics
 
-The following badges summarize my activity on this platform.
-
-<a href="https://github.com/lavinia-bacaru">
-    <img src="https://github-trophies.vercel.app/?username=15Galan&theme=monokai&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&file=1&column=6&margin-w=5&margin-h=5" alt="Trofeos" weight="200vw"/>
-    <br>
-    <img src="https://github-trophies.vercel.app/?username=15Galan&theme=monokai&no-bg=true&no-frame=true&rank=SECRET&file=1&column=4&margin-w=5&margin-h=5" alt="Trofeos secretos" weight="200vw"/>
-
-</p>
 
 
 
