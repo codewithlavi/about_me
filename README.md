@@ -4,12 +4,16 @@
   </a>
   Hello &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; 
   <a target="_blank">
-   
   </a>
 </h1>
 
 <br/>
   I am Lavinia a second year student of software engineering(D.A.M) at DIGITech F.P in Málaga,Spain and I'm also a Cybersecurity Researcher.
+  - 🌱 I’m currently learning : C# and Game Development with Unity , Java ;
+-  I’m looking for Internship and also to collaborate in a Open-source project
+-  Ask me about everthing,I will be happy to help
+- 📫 How to reach me:  lavinia.bacaru@digitechfp.com and lavinia_bacaru@protonmail.com
+- 😄 Pronouns: she/coder girl
 <p align = "center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
@@ -115,8 +119,8 @@ The following table represents my experience and interests in different areas of
         <tr>
             <th></th>
             <th>✅<br>Experienced</th>
-            <th>🔁<br>Experimenting</th>
-            <th>🆕<br>To Experiment</th>
+            <th>🔁<br>Practicing</th>
+            <th>🆕<br>To continue practicing</th>
         </tr>
     </thead>
     <tbody align="center">
@@ -171,15 +175,7 @@ The following table represents my experience and interests in different areas of
 </table>
  
  
-<p align="center">
-  &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
 
-  &emsp;
-   
-  &emsp;
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
@@ -195,13 +191,17 @@ The following table represents my experience and interests in different areas of
 </p>
 
 <p align = "center">
+# GitHub Statistics
+
+The following badges summarize my activity on this platform.
+
+<a href="https://github.com/lavinia-bacaru">
+    <img src="https://github-trophies.vercel.app/?username=15Galan&theme=monokai&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&file=1&column=6&margin-w=5&margin-h=5" alt="Trofeos" weight="200vw"/>
+    <br>
+    <img src="https://github-trophies.vercel.app/?username=15Galan&theme=monokai&no-bg=true&no-frame=true&rank=SECRET&file=1&column=4&margin-w=5&margin-h=5" alt="Trofeos secretos" weight="200vw"/>
 
 </p>
 
-- 🌱 I’m currently learning : C# and Game Development with Unity , Java , Android 
--  I’m looking to collaborate on :Open-source project as a newbee
--  Ask me about everthing,I will be happy to help
-- 📫 How to reach me:  lavinia.bacaru@digitechfp.com and lavinia_bacaru@protonmail.com
-- 😄 Pronouns: she/coder girl
+
 
 
