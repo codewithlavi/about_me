@@ -9,12 +9,8 @@
 <br/>
   I am Lavinia a second year student of software engineering(D.A.M) at DIGITech F.P in Málaga,Spain and I'm also a Cybersecurity Researcher.
   
-   I’m currently learning : C# and Game Development with Unity , Java ;
-  
-  I’m looking for Internship and also to collaborate in a Open-source project;
-  
-  Ask me about everthing,I will be happy to help
-  
+  I’m currently learning : C# and Game Development with Unity , Java ;
+    
 📫 How to reach me:  lavinia.bacaru@digitechfp.com and lavinia_bacaru@protonmail.com
   
 <p align = "center">
@@ -77,8 +73,6 @@
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
     &emsp;
@@ -103,6 +97,19 @@
 <a href="#"><img alt="Netbeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/></a>
 </p>
 
+ ### A.I/ ML/DL 🤖/🧠 :
+<br>
+<p align='center'>
+<img src="https://media.giphy.com/media/QyJTDR8VkUtyKHNPm9/giphy.gif" width="270" height="174" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
+<p align='center'>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">&nbsp;&nbsp;
+</p>
+<br>
+
+
 ### IOT 🔌 :
 <br>
 <p align='center'>
@@ -115,15 +122,13 @@
 
 ## Cybersecurity
 
-The following table represents my experience and interests in different areas of cybersecurity.
-
 <table>
     <thead align="center">
         <tr>
             <th></th>
-            <th>✅<br>Experienced</th>
-            <th>🔁<br>Practicing</th>
-            <th>🆕<br>To continue practicing</th>
+            <th>✅<br>Experienced labs</th>
+            <th>🔁<br>Practicing labs</th> 
+            <th>🆕<br>Tools</th>
         </tr>
     </thead>
     <tbody align="center">
