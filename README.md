@@ -116,6 +116,7 @@
 <br>
 <p align='center'>
 <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
+  
 </p>
 <br>
 
@@ -194,7 +195,7 @@
   &emsp;
   <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a> 
+  <a href="#"><img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"></a> 
 </p>
 
 <p align = "center">
