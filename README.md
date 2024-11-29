@@ -106,16 +106,77 @@
 </p>
 <br>
 
+## Cybersecurity
 
- ###  Competitive Programming and Problem Solving
+The following table represents my experience and interests in different areas of cybersecurity.
+
+<table>
+    <thead align="center">
+        <tr>
+            <th></th>
+            <th>✅<br>Experienced</th>
+            <th>🔁<br>Experimenting</th>
+            <th>🆕<br>To Experiment</th>
+        </tr>
+    </thead>
+    <tbody align="center">
+        <tr>
+            <td align="left">⚪ General</td>
+            <td>
+                <img src="https://img.shields.io/badge/WireShark-%231679A7.svg?style=flat&logo=wireshark&logoColor=white" alt="WireShark">
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/OPNSense-%23D94F00.svg?style=flat&logo=opnsense&logoColor=white" alt="OPNSense">
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td align="left">🔴 Red Team</td>
+            <td>
+                <img src="https://img.shields.io/badge/Hashcat-%233E3E41.svg?style=flat&logo=hashcat&logoColor=white" alt="Hashcat">
+                <img src="https://img.shields.io/badge/Hydra-%23168F78.svg?style=flat&logo=hydra&logoColor=white" alt="Hydra">
+                <br>
+                <img src="https://img.shields.io/badge/Nessus-%23061E42.svg?style=flat&logo=nessus&logoColor=white" alt="Nessus">
+                <img src="https://img.shields.io/badge/nmap-%23D0ECF4.svg?style=flat&logo=nmap&logoColor=white" alt="nmap">
+            </td>
+            <td></td>
+            <td>
+                <img src="https://img.shields.io/badge/John%20The%20Ripper-%23BA1515.svg?style=flat&logo=john-the-ripper&logoColor=black" alt="John The Ripper">
+                <img src="https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?style=flat&logo=burp-suite&logoColor=white" alt="Burp Suite">
+                <br>
+                <img src="https://img.shields.io/badge/Metasploit-%232596CD.svg?style=flat&logo=metasploit&logoColor=white" alt="Metasploit">
+                <img src="https://img.shields.io/badge/OWASP%20ZAP-%2300549E.svg?style=flat&logo=zap&logoColor=white" alt="OWASP ZAP">
+            </td>
+        </tr>
+        <tr>
+            <td align="left">🔵 Blue Team</td>
+            <td>
+                <img src="https://img.shields.io/badge/Cytomic-%235E3079.svg?style=flat&logo=Cytomic&logoColor=white" alt="Cytomic">
+                <img src="https://img.shields.io/badge/IBM MaaS360-%23052FAD.svg?style=flat&logo=IBM&logoColor=white" alt="IBM MaaS360">
+                <br>
+                <img src="https://img.shields.io/badge/Trend%20Micro-%23D71921.svg?style=flat&logo=trend-micro&logoColor=white" alt="Trend Micro">
+                <img src="https://img.shields.io/badge/VirusTotal-%23394EFF.svg?style=flat&logo=virustotal&logoColor=white" alt="Virus Total">
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/IRIS-%230E316A.svg?style=flat&logo=suricata&logoColor=white" alt="Iris">
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Suricata-%23F6AC31.svg?style=flat&logo=suricata&logoColor=white" alt="Suricata">
+                <br>
+                <img src="https://img.shields.io/badge/Wazuh-%233AABE6.svg?style=flat&logo=wazuh&logoColor=white" alt="Wazuh">
+                <img src="https://img.shields.io/badge/Zeek-%232980B9.svg?style=flat&logo=zeek&logoColor=black" alt="Zeek">
+            </td>
+        </tr>
+    </tbody>
+</table>
+ 
  
 <p align="center">
   &emsp;
     <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
 
   &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
+   
   &emsp;
   &emsp;
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
