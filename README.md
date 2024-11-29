@@ -2,7 +2,7 @@
 <a target="_blank">
 
   </a>
-  𝐇𝐞𝐥𝐥𝐨 <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="12px" style="max-width:100%;"> &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; 
+  Hello &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; 
   <a target="_blank">
    
   </a>
