@@ -80,7 +80,7 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a 
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ ### IDEs:
  
 <p align="center">
   &emsp;
@@ -92,6 +92,17 @@
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
+
+### IOT 🔌 :
+<br>
+<p align='center'>
+<img src="https://media.giphy.com/media/llDQjVIHqiXkeIJgrK/giphy.gif" width="410" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
+<p align='center'>
+<img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
+</p>
+<br>
+
 
  ###  Competitive Programming and Problem Solving
  
