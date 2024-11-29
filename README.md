@@ -1,6 +1,6 @@
-<h1 align="center">Hi , I am Lavinia - Cristiana Bacaru <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-I'm a second year student of software engineering(D.A.M) at DIGITech F.P in Málaga,Spain and I'm also a Cybersecurity Researcher.
-<p align = "center">
+<h1 align="center">Hi , I am Lavinia - Cristiana Bacaru </h1>
+  I'm a second year student of software engineering(D.A.M) at DIGITech F.P in Málaga,Spain and I'm also a Cybersecurity Researcher.
+ <p align = "center">
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
@@ -93,7 +93,6 @@ I'm a second year student of software engineering(D.A.M) at DIGITech F.P in Mál
   &emsp;
     <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
   &emsp;
   &emsp;
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
