@@ -6,7 +6,6 @@
   </a>
 </h1>
 
-<br/>
   I am Lavinia a second year student of software engineering(D.A.M) at DIGITech F.P in Málaga,Spain and I'm also a Cybersecurity Researcher.
   
   I’m currently learning : C# and Game Development with Unity , Java ;
