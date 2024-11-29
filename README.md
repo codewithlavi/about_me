@@ -127,7 +127,7 @@
             <th></th>
             <th>✅<br>Experienced labs</th>
             <th>🔁<br>Practicing labs</th> 
-            <th>🆕<br>Tools</th>
+            <th>🆕<br> Purple Team Tools</th>
         </tr>
     </thead>
     <tbody align="center">
@@ -157,9 +157,9 @@
                 <br>
                 <img src="https://img.shields.io/badge/Metasploit-%232596CD.svg?style=flat&logo=metasploit&logoColor=white" alt="Metasploit">
                 <img src="https://img.shields.io/badge/OWASP%20ZAP-%2300549E.svg?style=flat&logo=zap&logoColor=white" alt="OWASP ZAP">
-            </td>
-        </tr>
-        <tr>
+                </td>
+                </tr>
+                <tr>
             <td align="left">🔵 Blue Team</td>
             <td>
                 <img src="https://img.shields.io/badge/Cytomic-%235E3079.svg?style=flat&logo=Cytomic&logoColor=white" alt="Cytomic">
