@@ -2,7 +2,7 @@
 <a target="_blank">
 
   </a>
-  𝐇𝐞𝐥𝐥𝐨 <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">  &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; 
+  𝐇𝐞𝐥𝐥𝐨 <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="12px" style="max-width:100%;"> &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; 
   <a target="_blank">
    
   </a>
@@ -10,7 +10,8 @@
 
 <br/>
   I am Lavinia a second year student of software engineering(D.A.M) at DIGITech F.P in Málaga,Spain and I'm also a Cybersecurity Researcher.
- <p align = "center">
+<p align = "center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
