@@ -6,8 +6,8 @@
   </a>
 </h1>
 
-  I am Lavinia a second year student of software engineering(D.A.M) at DIGITech F.P in Málaga,Spain and I'm also a Cybersecurity Researcher.
-  
+  I am Lavinia and I'm 2º year student specialized in Software Development(D.A.M) at DIGITech F.P and also a Cybersecurity Researcher.
+  I attend hacktons and conferences when it is posible.
   I’m currently learning : C# and Game Development with Unity , Java ;
     
 📫 How to reach me:  lavinia.bacaru@digitechfp.com and lavinia_bacaru@protonmail.com
