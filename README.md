@@ -71,9 +71,10 @@
   &emsp;
   &emsp;
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
   &emsp;
-   <a href="#"><img alt="Aqua Sec" src="https://img.shields.io/badge/aqua-%231904DA.svg?style=for-the-badge&logo=aqua&logoColor=#0018A8></a>
+   <a href="#"><img alt="Unreal Engine"https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"></a>
+  &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
    <a href="#"><img alt="Elastic Search"https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch></a>
@@ -165,6 +166,7 @@
             <td align="left">🔵 Blue Team</td>
             <td>
                 <img src="https://img.shields.io/badge/Cytomic-%235E3079.svg?style=flat&logo=Cytomic&logoColor=white" alt="Cytomic">
+                 <img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white">
                 <img src="https://img.shields.io/badge/IBM MaaS360-%23052FAD.svg?style=flat&logo=IBM&logoColor=white" alt="IBM MaaS360">
                 <br>
                 <img src="https://img.shields.io/badge/Trend%20Micro-%23D71921.svg?style=flat&logo=trend-micro&logoColor=white" alt="Trend Micro">
