@@ -31,7 +31,7 @@
 
 
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software and Tools
+ ### Software and Tools
  
 <p align="center">
   &emsp;
