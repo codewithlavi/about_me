@@ -53,7 +53,7 @@
 <a href="#"><img alt="Netbeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/></a>
 </p>
 
-### A.I/ ML/DL 🤖/🧠 :
+### A.I/ ML/🤖 :
 <br>
 <p align='center'>
 <img src="https://media.giphy.com/media/QyJTDR8VkUtyKHNPm9/giphy.gif" width="270" height="174" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
