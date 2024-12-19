@@ -97,6 +97,7 @@
         <tr>
             <td align="left">⚪ General</td>
             <td>
+               <code> <img height="50" src="https://github.com/divyanshojha99/PICBOX/blob/main/kali.png?raw=true"> </code>
                 <img src="https://img.shields.io/badge/WireShark-%231679A7.svg?style=flat&logo=wireshark&logoColor=white" alt="WireShark">
             </td>
             <td>
