@@ -32,12 +32,6 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-  &emsp;
-  &emsp;
     <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
   &emsp;
    <a href="#"><img alt="Unreal Engine"https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"></a>
