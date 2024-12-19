@@ -94,7 +94,10 @@
     <tbody align="center">
         <tr>
             <td align="left">⚪ General</td>
-            <td>
+            <td> 
+    <a href="https://www.virtualbox.org/" target="_blank">
+    <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
+      alt="virtualbox"/>
                 <img src="https://img.shields.io/badge/WireShark-%231679A7.svg?style=flat&logo=wireshark&logoColor=white" alt="WireShark">
             </td>
             <td>
