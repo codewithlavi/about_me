@@ -1,9 +1,9 @@
 <h1 align="center">
 <a target="_blank">
   </a>
-  Hello world &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; 
+<Hello world &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; 
   <a target="_blank">
-  </a>
+</a>
 </h1>
 
    I am Lavinia and I'm 2º year student specialized in Software Development(D.A.M) at DIGITech F.P and also a Cybersecurity Researcher.
@@ -39,8 +39,6 @@
 <p align="center">
   &emsp;
     <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white"/></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a 
 </p>
