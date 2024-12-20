@@ -31,17 +31,11 @@
 </span>
   
 </p>
-
-
- ### Software and Tools
  
-<p align="center">
   &emsp;
     <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a 
-</p>
-
  ### IDEs:
  
 <p align="center">  
