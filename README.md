@@ -1,14 +1,13 @@
-<h1 align="center">
-<a target="_blank">
-  </a>
-<Hello world &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; 
-  <a target="_blank">
-</a>
-</h1>
+
+   <p align='center'>  Hello < Coders/ >
+   <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
 
    I am Lavinia and I'm 2º year student specialized in Software Development(D.A.M) at DIGITech F.P and also a Cybersecurity Researcher.
+   
    I enjoy creating posts about coding and cybersecurity, as well as attending conferences and participating in workshops.
-   I’m currently learning : C# and Game Development with Unity , Java ;
+   
+   I’m currently learning : C# and Game Development with Unity ;
     
 📫 Reach me:  lavinia.bacaru@digitechfp.com and lavinia_bacaru@protonmail.com
 
