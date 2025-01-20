@@ -7,7 +7,7 @@
    
    I enjoy creating posts about coding and cybersecurity, as well as attending conferences and participating in workshops.
    
-   I’m currently learning : C# and Game Development with Unity ;
+   I’m currently learning : JavaScript and C# ,Game Development with Unity ;
     
 📫 Reach me:  lavinia.bacaru@digitechfp.com and lavinia_bacaru@protonmail.com
 
